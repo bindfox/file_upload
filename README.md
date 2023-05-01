@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To run this application, add your MongoDB connection details in `server/db/db.js` file.
 
 To install MongoDB on your local machine, follow instructions from [here](https://levelup.gitconnected.com/how-to-install-mongodb-database-on-local-environment-19a8a76f1b92?source=friends_link&sk=416b443bad1f86b292e4b72602cf5c9b).
@@ -16,6 +17,8 @@ Open another terminal and execute the following commands in sequence from inside
 
 and access the application at http://localhost:3030/
 
+=======
+>>>>>>> 297ac94 (Initialize project using Create React App)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
